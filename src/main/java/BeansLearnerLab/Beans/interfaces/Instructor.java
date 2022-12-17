@@ -1,5 +1,7 @@
 package BeansLearnerLab.Beans.interfaces;
 
+import java.util.Collection;
+
 public class Instructor extends Person implements Teacher {
     public Instructor(long id, String name) {
         super(id, name);

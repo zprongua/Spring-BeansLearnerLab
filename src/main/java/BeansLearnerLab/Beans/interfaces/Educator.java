@@ -1,4 +1,6 @@
-package io.zipcoder.interfaces;
+package BeansLearnerLab.Beans.interfaces;
+
+import java.util.Collection;
 
 public enum Educator implements Teacher {
     KRIS(1, "Kris"),
